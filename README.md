@@ -1,6 +1,6 @@
 # TradeMind SDK
 
-A TypeScript library designed to provide a simple, programmatic interface for interacting with the TradeMind Agent Network through the [TradeMind API](https://trademind-api.vercel.app/).
+A TypeScript library designed to provide a simple, programmatic interface for interacting with the TradeMind Agent Network through the [TradeMind API](https://docs.trademind.network/developer-guide/trade-mind-api).
 
 ## Installation
 
