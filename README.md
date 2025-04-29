@@ -15,7 +15,7 @@ The SDK requires an API key to authenticate with the TradeMind API:
 ```bash
 # TradeMind API Configuration
 TRADEMIND_API_KEY=your_api_key
-# Optional: Custom API URL (defaults to https://api.trademind.network
+# Optional: Custom API URL (defaults to https://api.trademind.network )
 TRADEMIND_API_URL=custom_api_url
 ```
 
